@@ -1,4 +1,4 @@
-# 🚌 BusGo — Online Bus Ticket Booking System
+#  BusGo — Online Bus Ticket Booking System
 
 A full-stack bus ticket booking project built with **Java 17, Spring Boot, Spring Security, JWT, JPA/Hibernate, MySQL, HTML, CSS and JavaScript**.
 
